@@ -1,0 +1,8 @@
+<svg version="1.2" baseProfile="tiny-ps" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1366 627" width="1400" height="643">
+	<title>Subtraction 1 (3)-svg</title>
+	<style>
+		tspan { white-space:pre }
+		.shp0 { opacity: 0.871;fill: #000000 } 
+	</style>
+	<path id="Layer" fill-rule="evenodd" class="shp0" d="M1366 626L0 626L0 0L1366 0L1366 626ZM683 185.45C585.8 185.45 506.73 264.53 506.73 361.73C506.73 458.92 585.8 538 683 538C780.2 538 859.27 458.92 859.27 361.73C859.27 264.53 780.2 185.45 683 185.45Z" />
+</svg>
